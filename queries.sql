@@ -70,4 +70,4 @@ where Actor="Yash" AND Actress="Shrinidhi";
 
 SELECT Movie_name
 from movie 
-where year_of_release < '2017';
+where year_of_release < '2015';
