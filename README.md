@@ -16,3 +16,17 @@ where director="Neel";
 SELECT Movie_name
 from movie
 where Actor="Akshay Kumar";
+
+<img width="608" alt="M3" src="https://user-images.githubusercontent.com/65858783/136676768-d88be5e0-b892-483c-aab1-e5c2cbc23181.png">
+
+SELECT Movie_name
+from movie
+where Actress="Shrinidhi";
+
+<img width="610" alt="M4" src="https://user-images.githubusercontent.com/65858783/136676770-91b47633-8ac4-40c5-87cd-e4229aaf6efa.png">
+
+SELECT Movie_name
+from movie
+where year_of_release='2021';
+
+<img width="614" alt="M5" src="https://user-images.githubusercontent.com/65858783/136676771-626b2ed5-7888-449d-a0b3-87c04b50f15b.png">
