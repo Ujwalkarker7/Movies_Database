@@ -7,3 +7,6 @@
  
  <img width="400" alt="M1" src="https://user-images.githubusercontent.com/65858783/136676673-cbca81c4-52bd-4b09-885e-bad061854cb9.png">
 
+SELECT Movie_name
+from movie
+where director="Neel";
