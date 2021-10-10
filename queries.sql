@@ -30,7 +30,7 @@ INSERT INTO movie VALUES('Iron Man 3','Tony Starc','Gwyneth','Shane Black',2013)
 
 -- // 1) Query to fetch all rows from the movie table
 
-SELECT * FROM `movie`;
+SELECT * FROM movie;
 
 -- // 2) Query to fetch the names of all Movies directed by any particular director from the movie table.
 
