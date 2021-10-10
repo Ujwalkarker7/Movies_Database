@@ -30,3 +30,16 @@ from movie
 where year_of_release='2021';
 
 <img width="614" alt="M5" src="https://user-images.githubusercontent.com/65858783/136676771-626b2ed5-7888-449d-a0b3-87c04b50f15b.png">
+
+SELECT Movie_name
+from movie
+where Actor="Yash" AND Actress="Shrinidhi";
+
+<img width="609" alt="M6" src="https://user-images.githubusercontent.com/65858783/136676800-1614af60-d416-442f-b8b1-8ec30241a9cb.png">
+
+SELECT Movie_name
+from movie 
+where year_of_release < '2015';
+
+<img width="606" alt="M7" src="https://user-images.githubusercontent.com/65858783/136676801-ae5c346c-b783-4752-824e-24186a6efe73.png">
+
