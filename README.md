@@ -10,3 +10,9 @@
 SELECT Movie_name
 from movie
 where director="Neel";
+
+<img width="229" alt="M2" src="https://user-images.githubusercontent.com/65858783/136676753-dccafc14-171c-49fe-a38c-f1d1be3b6a63.png">
+
+SELECT Movie_name
+from movie
+where Actor="Akshay Kumar";
